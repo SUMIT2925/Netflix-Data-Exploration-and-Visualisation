@@ -1,5 +1,5 @@
-![Netflix](https://github.com/SUMIT2925/Netflix-Data-Exploration-and-Visualisation/blob/main/venti-views-lI7dlA5VBp8-unsplash.jpg)
 # Netflix-Data-Exploration-and-Visualisation
+![Netflix](https://github.com/SUMIT2925/Netflix-Data-Exploration-and-Visualisation/blob/main/venti-views-lI7dlA5VBp8-unsplash.jpg)
 We'll analyze content availability by country, trends in movie releases over 20-30 years, and compare TV shows vs. movies. We'll also examine the best launch times for TV shows and analyze actors/directors. Lastly, we'll assess Netflix's focus on TV shows vs. movies.
 ## Netflix :-
 Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
